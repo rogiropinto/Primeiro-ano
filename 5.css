@@ -15,7 +15,8 @@ body{
     background-color: #e6e6e6;
     width: 150px;
     height: 180px;
-    margin-left: 5px;
+    display: block;
+    margin: auto;
     rotate: 20deg;
     margin-bottom: 80px;
 }
@@ -34,8 +35,8 @@ body{
     height: 180px;
     margin-left: 23px;
     position: absolute;
-    left: 28%;
-    bottom: 6%;
+    left: 36%;
+    bottom: 4%;
     rotate: 340deg;
 }
 
