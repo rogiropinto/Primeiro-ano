@@ -33,7 +33,8 @@ body{
     background-color: #e6e6e6;
     width: 250px;
     height: 300px;
-    margin-left: 5px;
+    display: block;
+    margin: auto;
     margin-bottom: 40px;
     animation-name: girar;
     animation-duration: 1s;
@@ -58,7 +59,7 @@ body{
     margin-left: 23px;
     position: absolute;
     left: 28%;
-    top: 5%;
+    top: 3%;
     rotate: 340deg;
     animation-name: movimentar;
     animation-duration: 2.8s;
@@ -83,7 +84,7 @@ body{
     margin-left: 23px;
     position: absolute;
     left: 28%;
-    top: 50%;
+    top: 40%;
     rotate: 340deg;
     animation-name: movimentar;
     animation-duration: 2.6s;
@@ -107,7 +108,7 @@ body{
     height: 180px;
     margin-left: 23px;
     position: absolute;
-    left: -8%;
+    left: 0%;
     top: 25%;
     rotate: 20deg;
     animation-name: movimentar;

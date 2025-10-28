@@ -7,7 +7,8 @@ body{
     background-color: #e6e6e6;
     width: 220px;
     height: 300px;
-    margin-left: 23px;
+    display: block;
+    margin: auto;
 }
 
 #ani{
@@ -34,7 +35,7 @@ body{
     margin-left: 23px;
     position: absolute;
     left: 28%;
-    bottom: -25%;
+    bottom: 25%;
     rotate: 340deg;
 }
 

@@ -9,8 +9,8 @@ body{
     height: 180px;
     margin-left: 23px;
     position: absolute;
-    left: 18%;
-    top: 80%;
+    left: 23%;
+    top: 60%;
 }
 
 .fotos figure{
@@ -45,7 +45,7 @@ body{
     margin-left: 23px;
     position: absolute;
     left: 28%;
-    top: 18%;
+    top: 16%;
     rotate: 340deg;
 }
 
@@ -64,7 +64,7 @@ body{
     margin-left: 23px;
     position: absolute;
     left: 28%;
-    top: 120%;
+    top: 90%;
     rotate: 340deg;
 }
 
@@ -83,7 +83,7 @@ body{
     margin-left: 23px;
     position: absolute;
     left: -8%;
-    top: 100%;
+    top: 80%;
     rotate: 20deg;
 }
 
