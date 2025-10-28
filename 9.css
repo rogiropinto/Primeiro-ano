@@ -73,7 +73,7 @@ body{
     margin-left: 23px;
     position: absolute;
     left: 10%;
-    top: 80%;
+    top: 85%;
     rotate: 20deg;
 }
 
@@ -92,7 +92,7 @@ body{
     margin-left: 23px;
     position: absolute;
     left: 10%;
-    top: 120%;
+    top: 130%;
     rotate: 20deg;
 }
 
@@ -152,7 +152,7 @@ margin: auto;
 video{    
 position: absolute;
 left: 45%;
-bottom: -70%;
+bottom: -65%;
 margin: 3px;
 width: 130px;
 height: 230px;
