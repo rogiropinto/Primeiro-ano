@@ -223,7 +223,7 @@ a{
 }
 
 #contador{
-    display: block;
-    margin: auto;
+    text-align: center;
+    align-items: center;
     font-size: 13px;
 }
