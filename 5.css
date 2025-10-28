@@ -15,8 +15,7 @@ body{
     background-color: #e6e6e6;
     width: 150px;
     height: 180px;
-    display: block;
-    margin: auto;
+    margin-left: 15px;
     rotate: 20deg;
     margin-bottom: 80px;
 }
