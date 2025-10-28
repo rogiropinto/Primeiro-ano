@@ -223,13 +223,10 @@ a{
 }
 
 #contador{
-    display: flex;
-    align-self: center;
-    justify-self: center;
+
     font-size: 13px;
 }
 
 .contagem{
-    display: flex;
-    align-items: center;
+    margin-left: 10px;
 }

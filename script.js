@@ -1,5 +1,4 @@
-    // define a data de início
-    const dataInicio = new Date("2024-10-28T14:00:00");
+const dataInicio = new Date("2024-10-28T14:00:00");
 
     function atualizarContador() {
       const agora = new Date();
